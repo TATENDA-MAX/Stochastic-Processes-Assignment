@@ -1,5 +1,7 @@
 Markov Chain Analysis
+
 Project Overview
+
 This repository contains a Jupyter Notebook (or Google Colab notebook) that explores various concepts related to Markov Chains. The notebook addresses several problems, including:
 
 Problem A1: Analysis of a 5-state Markov chain, identifying recurrent/transient states, periods, steady-state probabilities, and ergodicity.
